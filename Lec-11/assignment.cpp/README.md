@@ -1,5 +1,11 @@
 # Assignment 1: SPSC Queue with Locks
 
+**Name:** Sanjay Sagar Reddy  
+**Roll No:** 24bcs10419  
+**Email:** sanjay.24bcs10419@sst.scaler.com  
+
+---
+
 An implementation of a **Single Producer, Single Consumer (SPSC) queue** protected by `std::mutex`, with a real producer thread and a real consumer thread, benchmarked using 64-byte objects.
 
 ---
